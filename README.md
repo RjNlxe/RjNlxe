@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Lyd — Web Developer & Builder at Heart
+# 👋 Hey, I'm Rj.Nlxe — Web Developer & Builder at Heart
 
 I’m a hands-on developer who enjoys digging into code, solving real problems, and shipping useful things. I'm always looking for ways to improve how I build — cleaner code, smarter tools, better workflows.
 
